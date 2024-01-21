@@ -1,0 +1,23 @@
+{
+  "name": "routes-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonameptz/routes-problem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nonameptz/routes-problem/issues"
+  },
+  "homepage": "https://github.com/nonameptz/routes-problem#readme",
+  "dependencies": {
+    "vite": "^5.0.12",
+    "vitest": "^1.2.1"
+  }
+}
